@@ -1,4 +1,4 @@
-
+hello I am subash
 # Zipcode pair optimization
 
 The approach taken is *greedy* with the pair supplied being sorted accoding to the start and then the overlapped are removed by *updating the end* accordingly
